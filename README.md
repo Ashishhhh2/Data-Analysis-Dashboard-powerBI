@@ -1,6 +1,6 @@
 ## Data-Analysis-Dashboard-powerBI Project Overview
 
-This project is a Power BI interactive dashboard designed to analyze and visualize sales, profit, and return metrics for Maven Market across brands and countries.
+This interactive Power BI dashboard provides a comprehensive analysis of Maven Market’s sales and returns performance across brands and regions. It combines transactional metrics, profitability tracking, return rates, and geographic revenue distribution to enable data-driven decision-making.
 
 ## Dataset Used
 
